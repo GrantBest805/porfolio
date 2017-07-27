@@ -68,6 +68,10 @@
    margin: 0;
    border-top: 0;
  }
+
+ .aboutModal {
+   width: 60%;
+ }
 }
 
 /************ 900px **************/
@@ -128,6 +132,10 @@
   .full_stack {
     font-size: 1.8em;
     margin-bottom: 10px;
+  }
+
+  .aboutModal {
+    width: 40%;
   }
 }
 
