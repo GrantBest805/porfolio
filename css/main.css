@@ -93,18 +93,21 @@ header, nav, footer, section, article, div {
 .contact {
   width: 50px;
   height: 50px;
-  /*margin-bottom: 15px;*/
+}
+
+.quote {
+  padding-top: 10px;
 }
 
 .skill {
   width: 100%;
-  /*font-family: 'Open Sans', sans-serif;*/
   font-family: 'Dosis', sans-serif;
-  font-size: 1.4em;
+  font-size: 1.2em;
   text-align: center;
-  padding-top: 30px;
+  padding-top: 10px;
   padding-left: 10px;
   padding-right: 10px;
+  padding-bottom: 10px;
 }
 
 .head_shot {
@@ -118,7 +121,6 @@ header, nav, footer, section, article, div {
 .res_s {
   height: 150px;
   width: 150px;
-  /*border: solid black .5px;*/
 }
 
 .h_s {
@@ -147,10 +149,8 @@ header, nav, footer, section, article, div {
 }
 
 .tech {
-  /*border-top: solid lightgrey .003px;*/
   margin-bottom: 20px;
   width: 100%;
-  /*font-family: 'Open Sans', sans-serif;*/
   font-family: 'Dosis', sans-serif;
   font-size: 1.4em;
 }
@@ -158,7 +158,6 @@ header, nav, footer, section, article, div {
 
 /*********** Front End ***************/
 .front_end {
-  /*font-family: 'Open Sans', sans-serif;*/
   font-family: 'Dosis', sans-serif;
   width: 100%;
 }
@@ -168,7 +167,6 @@ header, nav, footer, section, article, div {
 }
 /********SERVER SIDE**********/
 .server_side {
-  /*font-family: 'Open Sans', sans-serif;*/
   font-family: 'Dosis', sans-serif;
   width: 100%;
 }
@@ -182,7 +180,6 @@ header, nav, footer, section, article, div {
 /**********BACKEND*********/
 .back_end {
   width: 100%;
-  /*font-family: 'Open Sans', sans-serif;*/
   font-family: 'Dosis', sans-serif;
 }
 
@@ -195,9 +192,7 @@ header, nav, footer, section, article, div {
   flex-wrap: wrap;
   justify-content: space-between;
   background-color: #F5F5F5;
-  /*font-family: 'Open Sans', sans-serif;*/
   font-family: 'Dosis', sans-serif;
-  /*border-top: solid lightgrey 1px;*/
 }
 
 .projects_inner {
@@ -208,14 +203,12 @@ header, nav, footer, section, article, div {
 
 .projects_title {
   font-size: 1.4em;
-  /*font-family: 'Open Sans', sans-serif;*/
   font-family: 'Dosis', sans-serif;
 
 }
 
 .pro_dock {
   margin-top: 20px;
-  /*font-family: 'Open Sans', sans-serif;*/
   font-family: 'Dosis', sans-serif;
 }
 

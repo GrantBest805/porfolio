@@ -37,8 +37,9 @@
   .skill {
     order: -2;
     width: 33%;
-    font-size: 0.9em;
+    font-size: 1em;
     padding-top: 0;
+    margin-top: 0;
   }
 
   .res_svg {
