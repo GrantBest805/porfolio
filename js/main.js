@@ -1,4 +1,3 @@
-
 // Mean Topics Modal
 var topicModal = document.getElementById('myModal');
 var btn = document.getElementById('openTopic');
